@@ -9,7 +9,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Strivacity/import_validator.git
 cd import_validator
-pip install -r requirements.txt
 ```
 
 ## Usage
